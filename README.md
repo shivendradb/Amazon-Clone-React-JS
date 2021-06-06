@@ -1,12 +1,16 @@
 # Amazon Clone
 
-This project is a clone of the Amazon website. Hosted on Firebase at https://clone-27ad8.web.app/ .
+This project is a clone of the Amazon website. Hosted on Firebase at https://clone-27ad8.web.app/
 
 ### Don't use it for any commercial purposes.
 
 # Project Screenshots
 
+# Home page
+
 ![Home Page](screenshots/amazon.jpg)
+
+# Login Page
 
 ![Login Page](screenshots/amazon-login.jpg)
 
