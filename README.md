@@ -8,6 +8,8 @@ This project is a clone of the Amazon website. Hosted on Firebase at https://clo
 
 ![Home Page](screenshots/amazon.jpg)
 
+![Login Page](screenshots/amazon-login.jpg)
+
 # Note For Developers
 
 ### Technologies Used:
