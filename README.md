@@ -1,12 +1,12 @@
-#Amazon Prime Clone
+#Amazon Prime Clone \
 This project is a clone of the Amazon website. Hosted on Firebase at https://clone-27ad8.web.app/
 
-##Don't use it for any commercial purposes.
+##Don't use it for any commercial purposes. \
 
 #Note For Developers
-Technologies Used:
-ReactJS
-NodeJS
+Technologies Used: \
+ReactJS \
+NodeJS \
 Material UI for icons
 Stripe for payment gateway
 Firebase for deployment
