@@ -18,11 +18,10 @@ This project is a clone of the Amazon website. Hosted on Firebase at https://clo
 
 ### Technologies Used:
 
-1. ReactJS
-2. NodeJS
-3. Material UI for icons
-4. Stripe for payment gateway
-5. Firebase for deployment
+1. React JS
+2. Material UI for icons
+3. Stripe for payment gateway
+4. Firebase for backend and deployment
 
 Icons from Material UI library have been used. Link is [https://material-ui.com/components/material-icons/](https://material-ui.com/components/material-icons/)
 
